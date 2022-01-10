@@ -1,0 +1,12 @@
+.tile {
+  width: 20vw;
+  min-width: 100px;
+  height: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 10px;
+  box-shadow: 0px 0px 5px grey;
+  border-radius: 10px;
+}
