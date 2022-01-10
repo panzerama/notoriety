@@ -2,7 +2,7 @@ function changeColor() {
   var blueDiv = document.getElementById("changeable");
   // Use the Mozilla Developer Network resource to find the right way to change
   // the background for this div 
-  blueDiv.setAttribute('class', 'purple half')
+  blueDiv.setAttribute('class', 'orange half')
 }
 
 function replaceWord() {
