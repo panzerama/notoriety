@@ -8,17 +8,13 @@ function changeColor() {
 async function replaceWord() {
   var wordable = document.getElementById('wordable');
 
-  fetch("https://wordsapiv1.p.rapidapi.com/words/?random=true", {
-    method: "GET",
-    headers: {
-      "x-rapidapi-host": "wordsapiv1.p.rapidapi.com",
-      "x-rapidapi-key": "295bc1e9b9msh5d9001a4dab9bacp1c707cjsn940bb4aab23b",
-    },
+  fetch("https://jsonplaceholder.typicode.com/todos/1", {
+    method: "GET"
   })
     .then((response) => {
       response.json().then((responseBody) => {
-        console.log(responseBody.word);
-        wordable.textContent = responseBody.word
+        console.log(responseBody.title);
+        wordable.textContent = responseBody.title
   });
 })
 .catch((err) => {
