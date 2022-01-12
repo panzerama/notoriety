@@ -7,8 +7,8 @@ const {
   myFirstFunction,
   howNotToUseConst,
   anArrowFunction,
-  functionsAsParams } = require('./jsFeatures')
-
+  functionsAsParams
+} = require('./jsFeatures')
 
 describe('JavaScript Exaples', () => {
   describe('First example function', () => {
