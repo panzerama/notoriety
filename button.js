@@ -15,7 +15,7 @@ function replaceWord() {
   .then(response => response.text())
   .then(text => {
     key = text;
-  })
+  }) // Catch the error and console log it
   .catch(error => console.log('error', error));
   
 
