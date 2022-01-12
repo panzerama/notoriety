@@ -1,23 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import { BrowserRouter, Route, Routes, Link } from "react-router-dom"
 import './index.css'
 import App from './App'
-import CardProvider from './components/CardProvider/CardProvider'
-import Landing from './components/Landing/Landing'
 import reportWebVitals from './reportWebVitals'
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<App />}>
-          <Route path="" element={<Landing />} />
-          <Route path="cards" element={<CardProvider />} />
-          <Route path="decks" element={<></>} />
-        </Route>
-      </Routes>
-    </BrowserRouter>
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 )

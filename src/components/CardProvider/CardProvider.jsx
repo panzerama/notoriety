@@ -11,6 +11,10 @@ const CardProvider = () => {
       setIndex(0)
     }
   }
+
+  // fetch cards
+
+  
   
   return <Card cardContent={{ cardAdvanceHandler: nextCardHandler, ...cardData[index] }}></Card>
 }

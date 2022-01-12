@@ -39,7 +39,8 @@
   },
   "prettier": {
     "tabWidth": 2,
-    "semi": false
+    "semi": false,
+    "singleQuote": true
   },
   "browserslist": {
     "production": [
@@ -55,7 +56,6 @@
   },
   "devDependencies": {
     "concurrently": "6.5.1",
-    "eslint-config-prettier": "8.3.0",
-    "prettier": "2.4.1"
+    "prettier": "^1.19.1"
   }
 }
