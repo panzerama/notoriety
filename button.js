@@ -18,14 +18,10 @@ function replaceWord() {
     },
   })
     .then((response) => {
-      console.log(response);
       response.json().then((responseBody) => {
-
           wordable.textContent = responseBody.word
-
       });
     })
     .catch((err) => {
-      console.error(err);
     });
 }
