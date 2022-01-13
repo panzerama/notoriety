@@ -12,20 +12,21 @@ function replaceWord() {
   fetch("https://wordsapiv1.p.rapidapi.com/words/?random=true", {
     method: "GET",
     headers: {
-      "x-rapidapi-key": "your-api-key-here",
-      "x-rapidapi-host": "api-host-here",
+      'x-rapidapi-host': 'wordsapiv1.p.rapidapi.com',
+      'x-rapidapi-key': 'keys'
     },
   })
-    .then((response) => {
-      console.log(response);
-      response.json().then(() => {
+    .then(response => {
+      response.json().then((responseBody) => {
+        console.log(responseBody.word)
+        wordable.textContent = responseBody.word
         /* 
           Complete this handler function with code that populates an html 
           element with the random word 
         */
       });
     })
-    .catch((err) => {
+    .catch(err => {
       console.error(err);
     });
 }
