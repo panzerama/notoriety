@@ -20,10 +20,7 @@ function replaceWord() {
     .then((response) => {
       console.log(response);
       response.json().then((responseBody) => {
-        /* 
-          Complete this handler function with code that populates an html 
-          element with the random word 
-        */
+
           wordable.textContent = responseBody.word
 
       });
