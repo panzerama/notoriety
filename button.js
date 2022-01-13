@@ -16,7 +16,7 @@ function replaceWord() {
     method: "GET",
     headers: {
       "x-rapidapi-key": "wordsapiv1.p.rapidapi.com",
-      "x-rapidapi-host": "91b4866cf8mshaf4078eba316917p132b33jsn2011191e658c",
+      "x-rapidapi-host": "",
     },
   })
     .then((response) => {
