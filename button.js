@@ -3,6 +3,8 @@ function changeColor() {
   // Use the Mozilla Developer Network resource to find the right way to change
   // the background for this div 
   /* Your Code Goes Here */
+  blueDiv.classList.remove("blue");
+  blueDiv.classList.add("greenyellow");
 }
 
 function replaceWord() {
@@ -11,8 +13,8 @@ function replaceWord() {
   fetch("https://wordsapiv1.p.rapidapi.com/words/?random=true", {
     method: "GET",
     headers: {
-      "x-rapidapi-key": "your-api-key-here",
-      "x-rapidapi-host": "api-host-here",
+      "x-rapidapi-key": "5f42c395edmsh3121e5f94aab011p1c7eabjsnc711d1eb3d13",
+      "x-rapidapi-host": "wordsapiv1.p.rapidapi.com",
     },
   })
     .then((response) => {
@@ -22,6 +24,7 @@ function replaceWord() {
           Complete this handler function with code that populates an html 
           element with the random word 
         */
+       wordable.innerHTML = response.text();
       });
     })
     .catch((err) => {
