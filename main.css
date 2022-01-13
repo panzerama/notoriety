@@ -23,6 +23,10 @@
 }
 
 /* Add a different color class here */
+.orange{
+  background-color: orange;
+}
+
 
 button {
   height: 50px;
