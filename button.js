@@ -11,16 +11,13 @@ function replaceWord() {
     headers: {
       "x-rapidapi-host": "wordsapiv1.p.rapidapi.com",
       "x-rapidapi-key": "keys'",
-    
     },
   })
+  
     .then((response) => {
       response.json().then((responseBody) => {
         console.log(responseBody.word);
         wordable.textContent = responseBody.word
       });
     })
-    .catch((err) => {
-      console.error(err);
-    });
 }
