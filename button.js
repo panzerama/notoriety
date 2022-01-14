@@ -6,7 +6,7 @@ function changeColor() {
   blueDiv.setAttribute('class', 'orange half');
 }
 
-
+// adding comment
 function replaceWord() {
   var wordable = document.getElementById('wordable');
 
