@@ -3,20 +3,11 @@ function changeColor() {
   blueDiv.setAttribute("class","green half") 
 }
 
-
 function replaceWord() {
   var wordable = document.getElementById('wordable');
-
-  fetch('key.txt')
-  .then(response => response.text())
-  .then(text => {
-    key = text;
-  }).catch((err) => {});
-
   fetch("https://wordsapiv1.p.rapidapi.com/words/?random=true", {
     method: "GET",
     headers: {
-      
       "x-rapidapi-key": key,
       "x-rapidapi-host": "wordsapiv1.p.rapidapi.com",
     },
@@ -26,6 +17,4 @@ function replaceWord() {
           wordable.textContent = responseBody.word
       });
     })
-    .catch((err) => {
-    });
 }
