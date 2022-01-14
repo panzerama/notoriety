@@ -5,6 +5,7 @@ function changeColor() {
   /* Your Code Goes Here */
 }
 
+
 function replaceWord() {
   var wordable = document.getElementById('wordable');
 
