@@ -1,11 +1,12 @@
 import React from 'react'
-import { BrowserRouter, Link, Route, Routes } from 'react-router-dom'
-// import CardProvider from './components/CardProvider/CardProvider'
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Container from './components/Container/Container'
 import TopBar from './components/TopBar/TopBar'
 import CardProvider from './components/CardProvider/CardProvider'
 import Landing from './components/Landing/Landing'
 import './App.css'
+
+// TODO add theme elements for color and font
 
 const App = () => {
   return (
