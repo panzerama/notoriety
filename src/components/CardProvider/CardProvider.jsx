@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import axios from 'axios'
 
-import Card from '../Card/Card'
+import Flashcard from '../Flashcard/Flashcard'
 
 const CardProvider = () => {
   const [index, setIndex] = useState(0)
@@ -28,7 +28,7 @@ const CardProvider = () => {
   if (!cards) {
     return <span>Loading...</span>
   } else {
-    return <Card cardContent={{ cardAdvanceHandler: nextCardHandler, ...cards[index] }}></Card>
+    return <Flashcard cardContent={{ cardAdvanceHandler: nextCardHandler, ...cards[index] }}></Flashcard>
   }
 }
 
