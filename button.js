@@ -13,12 +13,10 @@ function changeColor() {
 function replaceWord() {
   var ran = Math.floor(Math.random( )*100);
   var wordable = document.getElementById('wordable');
-  var word = "";
-  //var blueDiv = document.getElementById("changeable");
   fetch('https://jsonplaceholder.typicode.com/posts/'+ran)
       .then(data => {return data.json();})
       .then(word => {console.log(word.title);
-      wordable.textContent = word.title;
+       wordable.textContent = word.title;
     
   })
   .catch((err) => {
