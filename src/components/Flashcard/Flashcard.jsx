@@ -46,8 +46,11 @@ const Flashcard = props => {
 
   return (
     <Box sx={{ width: '100%', mt: 8, display: 'flex', justifyContent: 'space-around'}}>
-      <Card sx={{ maxWidth: '40vw' }} elevation={3}>
-        <CardMedia image={content.image} />
+      <Card sx={{ width: '40vw' }} elevation={3}>
+        { content.image && <CardMedia
+          component="img"
+          height="200"
+          image={content.image} />}
         <CardContent>
           <Typography>{content.text}</Typography>
         </CardContent>
