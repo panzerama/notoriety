@@ -6,6 +6,7 @@ function changeColor() {
 
   document.getElementById("changeable").style.backgroundColor = "yellowGreen"
 
+  //blueDiv.setAttribute('class','yellowGreen');
   
 }
 
@@ -16,10 +17,9 @@ function replaceWord() {
   //var blueDiv = document.getElementById("changeable");
   fetch('https://jsonplaceholder.typicode.com/posts/'+ran)
       .then(data => {return data.json();})
-      .then(word => {word =>word.title;console.log(word.title);
+      .then(word => {console.log(word.title);
       wordable.textContent = word.title;
     
-  
   })
   .catch((err) => {
     console.error(err);
