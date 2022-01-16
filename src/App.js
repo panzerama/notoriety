@@ -1,6 +1,7 @@
 import React from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Container from './components/Container/Container'
+import { Box, Container } from '@mui/material'
+// import Container from './components/Container/Container'
 import TopBar from './components/TopBar/TopBar'
 import CardProvider from './components/CardProvider/CardProvider'
 import Landing from './components/Landing/Landing'
@@ -11,16 +12,16 @@ import './App.css'
 const App = () => {
   return (
     <BrowserRouter>
-      <div className="wrapper">
+      <Box className="wrapper" sx={{ overflow: 'hidden', width: '100vw' }}>
         <TopBar />
-        <Container>
+        <Container maxWidth="md">
           <Routes>
             <Route path="" element={<Landing />} />
             <Route path="cards" element={<CardProvider />} />
             <Route path="decks" element={<></>} />
           </Routes>
         </Container>
-      </div>
+      </Box>
     </BrowserRouter>
   )
 }

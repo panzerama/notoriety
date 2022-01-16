@@ -12,8 +12,8 @@ const TopBar = () => {
     console.log('button in top bar tapped')
   }
   return (
-    <AppBar>
-      <Toolbar sx={{ display: 'flex', justifyConten: 'space-between', width: '100vw', m: 0 }}>
+    <AppBar position="relative">
+      <Toolbar sx={{ display: 'flex', width: '100vw', m: 0 }}>
         <Typography variant='h6' sx={{ flexGrow: 1 }}>Notoriety</Typography>
         <ButtonGroup>
           <Button buttonStyle="primary" onClickHandler={buttonClickHandler}>

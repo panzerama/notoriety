@@ -1,26 +1,26 @@
 const express = require('express')
+const cors = require('cors')
 const cards = require('./data/cards.json')
-// import the decks info here
+// Assignment: import the decks info here
 
 const app = express()
 const port = 8000
 
+// Middleware
 app.use(express.json())
+app.use(cors())
 
-app.get('/', (req, res) => {
-  res.send('Hello World!')
-})
-
+// Routes
 app.get('/cards', (req, res) => {
   res.json(cards)
 })
 
-// DEMO implement app.get cards from a deck id
 app.get('/cards/:id', (req, res) => {
-  res.statusCode(503)
+  const cardsForDeck = cards.filter(card => card.deck_id.toString() === req.params.id )
+  res.json(cardsForDeck)
 })
 
-// create a decks route that returns the decks info imported above
+// Assignment: create a decks route that returns the decks info imported above
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}!`)
