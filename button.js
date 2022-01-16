@@ -6,31 +6,22 @@ function changeColor() {
 
   document.getElementById("changeable").style.backgroundColor = "yellowGreen"
 
-  //blueDiv.setAttribute('class','yellowGreen');
   
 }
 
 function replaceWord() {
+  var ran = Math.floor(Math.random( )*100);
   var wordable = document.getElementById('wordable');
-
-  fetch('https://jsonplaceholder.typicode.com/todos/1', {
-    method: 'GET',
-    headers: {
-
-    },
+  var word = "";
+  //var blueDiv = document.getElementById("changeable");
+  fetch('https://jsonplaceholder.typicode.com/posts/'+ran)
+      .then(data => {return data.json();})
+      .then(word => {word =>word.title;console.log(word.title);
+      wordable.textContent = word.title;
+    
+  
   })
-    .then((response) => {
-      console.log(response);
-      response.json().then(() => {
-        /* 
-          Complete this handler function with code that populates an html 
-          element with the random word 
-        */
-       document.getElementById("wordable") = "gg";
-      });
-    })
-    .catch((err) => {
-      console.error(err);
-    });
-
+  .catch((err) => {
+    console.error(err);
+  });
 }
