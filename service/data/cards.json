@@ -1,6 +1,6 @@
 [
   {
-    "card_id": "1ed2e1b3-0eb3-48c1-b1d8-f000756062f2",
+    "card_id": "1ed2e1b3",
     "front_text": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
     "front_image": null,
     "back_text": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
@@ -8,7 +8,7 @@
     "deck_id": 4
   },
   {
-    "card_id": "c1bdb3be-1a67-426c-a1d4-a2b7678a0519",
+    "card_id": "c1bdb3be",
     "front_text": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
@@ -16,7 +16,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "befe6bb0-2e32-46eb-8191-1dc1962b7dae",
+    "card_id": "befe6bb0",
     "front_text": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
@@ -24,7 +24,7 @@
     "deck_id": 7
   },
   {
-    "card_id": "3b6b934a-a204-42b9-8a4f-5a56059a17c2",
+    "card_id": "3b6b934a",
     "front_text": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
@@ -32,7 +32,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "90a33178-69c1-4582-947d-d82cabdb377f",
+    "card_id": "90a33178",
     "front_text": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
@@ -40,7 +40,7 @@
     "deck_id": 4
   },
   {
-    "card_id": "a50e0729-e134-4f2d-a557-21c1af4aacaa",
+    "card_id": "a50e0729",
     "front_text": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
     "front_image": null,
     "back_text": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
@@ -48,7 +48,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "a0e89663-35ba-4502-a705-46dc7fb50dab",
+    "card_id": "a0e89663",
     "front_text": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
@@ -56,7 +56,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "5f80e4ad-0fc1-4637-8ebb-8e7f8efbfaa4",
+    "card_id": "5f80e4ad",
     "front_text": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
@@ -64,7 +64,7 @@
     "deck_id": 4
   },
   {
-    "card_id": "59673f8e-6af1-47e5-8980-8c708b86da6d",
+    "card_id": "59673f8e",
     "front_text": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "In congue. Etiam justo. Etiam pretium iaculis justo.",
@@ -72,7 +72,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "2b1a64fb-5e65-4449-897f-bc1188e207ed",
+    "card_id": "2b1a64fb",
     "front_text": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
@@ -80,7 +80,7 @@
     "deck_id": 5
   },
   {
-    "card_id": "5b741c22-dd8b-4f87-a901-1b53c8bad2bc",
+    "card_id": "5b741c22",
     "front_text": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
@@ -88,7 +88,7 @@
     "deck_id": 3
   },
   {
-    "card_id": "2d7a3ad4-44b7-456d-a6fc-a6a7afbde6c2",
+    "card_id": "2d7a3ad4",
     "front_text": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
@@ -96,7 +96,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "055c99fb-bec3-44c5-a3bc-ce2ba57570b4",
+    "card_id": "055c99fb",
     "front_text": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
@@ -104,7 +104,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "4b6f9ee1-4332-4afd-966a-00ffa7d0235f",
+    "card_id": "4b6f9ee1",
     "front_text": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
@@ -112,7 +112,7 @@
     "deck_id": 3
   },
   {
-    "card_id": "5a6ef544-4c73-4bae-99f6-d8eab658512f",
+    "card_id": "5a6ef544",
     "front_text": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
@@ -120,7 +120,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "dbebf88e-8fa6-4021-a62e-a2e3ca60eb93",
+    "card_id": "dbebf88e",
     "front_text": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
@@ -128,7 +128,7 @@
     "deck_id": 5
   },
   {
-    "card_id": "c3f1839d-bd17-4865-9a6b-342f2d0becff",
+    "card_id": "c3f1839d",
     "front_text": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
@@ -136,7 +136,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "4335500d-2928-4961-badc-b3c4205f3e12",
+    "card_id": "4335500d",
     "front_text": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
@@ -144,7 +144,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "1bb4407a-a390-41d8-a470-5f669f620bff",
+    "card_id": "1bb4407a",
     "front_text": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
@@ -152,7 +152,7 @@
     "deck_id": 3
   },
   {
-    "card_id": "1636ae0e-1a15-478c-9432-55b0dbf8de4d",
+    "card_id": "1636ae0e",
     "front_text": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
@@ -160,7 +160,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "4f219393-b8e6-4bab-ac44-827fcd354260",
+    "card_id": "4f219393",
     "front_text": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
@@ -168,7 +168,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "55fef11b-b84f-442c-9c55-f4e50c22e597",
+    "card_id": "55fef11b",
     "front_text": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
@@ -176,7 +176,7 @@
     "deck_id": 4
   },
   {
-    "card_id": "3c98cd31-6065-4f59-a94a-f24698f78335",
+    "card_id": "3c98cd31",
     "front_text": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
@@ -184,7 +184,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "bd53f082-9602-4148-acd4-dae79d22ab35",
+    "card_id": "bd53f082",
     "front_text": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
@@ -192,7 +192,7 @@
     "deck_id": 7
   },
   {
-    "card_id": "f7381456-531d-41fd-97d3-a2a044ee897d",
+    "card_id": "f7381456",
     "front_text": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
@@ -200,7 +200,7 @@
     "deck_id": 4
   },
   {
-    "card_id": "580a9d07-809d-4a2c-a84c-7654fca80b91",
+    "card_id": "580a9d07",
     "front_text": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
@@ -208,7 +208,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "b6f3304a-51f2-478c-9391-f32b5f0c7d56",
+    "card_id": "b6f3304a",
     "front_text": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
@@ -216,7 +216,7 @@
     "deck_id": 3
   },
   {
-    "card_id": "c4d53933-6b0c-4b37-8c80-5f97f38a9eb4",
+    "card_id": "c4d53933",
     "front_text": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
@@ -224,7 +224,7 @@
     "deck_id": 3
   },
   {
-    "card_id": "7cc1ec61-4e5d-4fdf-ae22-bb375e78e129",
+    "card_id": "7cc1ec61",
     "front_text": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
@@ -232,7 +232,7 @@
     "deck_id": 4
   },
   {
-    "card_id": "d427b5eb-a0d8-4c55-9116-0be6614245aa",
+    "card_id": "d427b5eb",
     "front_text": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
@@ -240,7 +240,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "a063fbc3-7e4e-4bb5-8af8-920f4f9a28d6",
+    "card_id": "a063fbc3",
     "front_text": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
@@ -248,7 +248,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "fda15992-4f99-496a-b852-18dcae8128d3",
+    "card_id": "fda15992",
     "front_text": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
@@ -256,7 +256,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "afdab852-a3a6-48e1-8578-8ce33803d871",
+    "card_id": "afdab852",
     "front_text": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
@@ -264,7 +264,7 @@
     "deck_id": 3
   },
   {
-    "card_id": "b752ce98-caa2-46d0-afe5-b4519a692050",
+    "card_id": "b752ce98",
     "front_text": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
@@ -272,7 +272,7 @@
     "deck_id": 5
   },
   {
-    "card_id": "48bd743b-ee2b-4868-ab41-de303345e8c6",
+    "card_id": "48bd743b",
     "front_text": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
@@ -280,7 +280,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "36bbdc50-cd64-4d1a-bcbc-f6ca4d02191b",
+    "card_id": "36bbdc50",
     "front_text": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
@@ -288,7 +288,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "0cca6b4e-51f6-4b1a-865d-5c9f3c8b0b12",
+    "card_id": "0cca6b4e",
     "front_text": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
@@ -296,7 +296,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "5dd00f18-89f7-458c-b51c-68fe9e1c8586",
+    "card_id": "5dd00f18",
     "front_text": "Sed ante. Vivamus tortor. Duis mattis egestas metus.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
@@ -304,7 +304,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "6bee9a2c-6cec-46d9-87d8-d2e82cacd2a8",
+    "card_id": "6bee9a2c",
     "front_text": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
@@ -312,7 +312,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "07e93d0e-f3b6-4899-a373-8d7556e773bf",
+    "card_id": "07e93d0e",
     "front_text": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
@@ -320,7 +320,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "4a60aeae-1da2-4883-936f-39d1aabe107d",
+    "card_id": "4a60aeae",
     "front_text": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
@@ -328,7 +328,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "18d690c7-b9ec-430a-a310-72faf946c979",
+    "card_id": "18d690c7",
     "front_text": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
@@ -336,7 +336,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "20c6afb2-2c1a-4cef-a8aa-4c47fe166e4d",
+    "card_id": "20c6afb2",
     "front_text": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
@@ -344,7 +344,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "e3ed34e3-2c16-4422-a259-9969e25cabd2",
+    "card_id": "e3ed34e3",
     "front_text": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
@@ -352,7 +352,7 @@
     "deck_id": 5
   },
   {
-    "card_id": "380211e5-2688-49bb-991e-8f52254cc71f",
+    "card_id": "380211e5",
     "front_text": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
@@ -360,7 +360,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "17a2c194-5aa8-472f-8bfc-91629e4e44b2",
+    "card_id": "17a2c194",
     "front_text": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
@@ -368,7 +368,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "8d329835-0bdb-4628-ab63-8fccde77511f",
+    "card_id": "8d329835",
     "front_text": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
@@ -376,7 +376,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "35e13c42-3a77-40f0-9baf-58866a6ceb5f",
+    "card_id": "35e13c42",
     "front_text": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
@@ -384,7 +384,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "f642f5cf-f26f-457a-8fd3-03b7cecb6007",
+    "card_id": "f642f5cf",
     "front_text": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
@@ -392,7 +392,7 @@
     "deck_id": 5
   },
   {
-    "card_id": "6c44d2b1-6150-4889-8f32-d7474f65a7ba",
+    "card_id": "6c44d2b1",
     "front_text": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
@@ -400,7 +400,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "a58e3578-da2d-4c6c-88ac-f25fe9c8ed83",
+    "card_id": "a58e3578",
     "front_text": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
@@ -408,7 +408,7 @@
     "deck_id": 7
   },
   {
-    "card_id": "9754ebc9-292e-48e2-bf72-07ad97994db8",
+    "card_id": "9754ebc9",
     "front_text": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
@@ -416,7 +416,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "e3e11712-220c-47b9-8996-45d4fd4ffadd",
+    "card_id": "e3e11712",
     "front_text": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
@@ -424,7 +424,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "21445a43-b234-491f-bc2d-051c3ee53c9b",
+    "card_id": "21445a43",
     "front_text": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
@@ -432,7 +432,7 @@
     "deck_id": 4
   },
   {
-    "card_id": "bc808c24-ac1b-4cb7-860d-55a20e4310e7",
+    "card_id": "bc808c24",
     "front_text": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
@@ -440,7 +440,7 @@
     "deck_id": 4
   },
   {
-    "card_id": "0faf04df-d1c1-48f0-9a69-ce40e169d539",
+    "card_id": "0faf04df",
     "front_text": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
@@ -448,7 +448,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "66f1644f-4321-440a-beec-10bb6284520e",
+    "card_id": "66f1644f",
     "front_text": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
@@ -456,7 +456,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "44278d92-71ef-4fa4-95e6-4505270c3abf",
+    "card_id": "44278d92",
     "front_text": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
@@ -464,7 +464,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "3645185d-2008-4d5b-a5bb-f8c336e26fc8",
+    "card_id": "3645185d",
     "front_text": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
@@ -472,7 +472,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "225b45c0-ddb3-4e04-b368-0129cfb2b92e",
+    "card_id": "225b45c0",
     "front_text": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
@@ -480,7 +480,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "52cb54d5-5b8e-40f1-bb15-8980fadcace1",
+    "card_id": "52cb54d5",
     "front_text": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
@@ -488,7 +488,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "2e1a86dd-b5e3-45b1-b896-c9870cd55ebb",
+    "card_id": "2e1a86dd",
     "front_text": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
@@ -496,7 +496,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "df9debc9-1415-416f-b6d0-96e01e782bbc",
+    "card_id": "df9debc9",
     "front_text": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
@@ -504,7 +504,7 @@
     "deck_id": 5
   },
   {
-    "card_id": "ee3cdb0e-b9f4-4a06-85f2-ac195f292310",
+    "card_id": "ee3cdb0e",
     "front_text": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
@@ -512,7 +512,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "8277bce4-8e12-4e21-b2e3-bb3d26ebb3dd",
+    "card_id": "8277bce4",
     "front_text": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
@@ -520,7 +520,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "51456ecd-eaaf-4576-91a4-c10dd5ae588b",
+    "card_id": "51456ecd",
     "front_text": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
@@ -528,7 +528,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "eb7d222a-280e-425c-92e1-c6e046b23624",
+    "card_id": "eb7d222a",
     "front_text": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
@@ -536,7 +536,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "b55525cb-6bc7-41b9-9e1e-ef205bde19a7",
+    "card_id": "b55525cb",
     "front_text": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
@@ -544,7 +544,7 @@
     "deck_id": 3
   },
   {
-    "card_id": "817a567a-6e88-452e-92a4-dd99a06619b4",
+    "card_id": "817a567a",
     "front_text": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
@@ -552,7 +552,7 @@
     "deck_id": 5
   },
   {
-    "card_id": "cf1322d6-ad18-4b2e-bb30-06d4581b4146",
+    "card_id": "cf1322d6",
     "front_text": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
@@ -560,7 +560,7 @@
     "deck_id": 5
   },
   {
-    "card_id": "0fb9663f-316e-44f5-bb73-c8a6d0ac495c",
+    "card_id": "0fb9663f",
     "front_text": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
@@ -568,7 +568,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "1c70bfc9-d333-4a00-a5b0-1cbde107ec57",
+    "card_id": "1c70bfc9",
     "front_text": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
@@ -576,7 +576,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "e732995f-476e-4f29-a449-fb8392660085",
+    "card_id": "e732995f",
     "front_text": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
@@ -584,7 +584,7 @@
     "deck_id": 3
   },
   {
-    "card_id": "785b84f1-8c5e-49eb-93c7-b5e367f80e7e",
+    "card_id": "785b84f1",
     "front_text": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
@@ -592,7 +592,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "46a0cefc-e62a-4275-a023-8ec333add9be",
+    "card_id": "46a0cefc",
     "front_text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
@@ -600,7 +600,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "6392427a-288b-4b5a-974b-002d9aa38bbc",
+    "card_id": "6392427a",
     "front_text": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
@@ -608,7 +608,7 @@
     "deck_id": 7
   },
   {
-    "card_id": "ed723d62-97c9-4863-817a-86575429e1d3",
+    "card_id": "ed723d62",
     "front_text": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
@@ -616,7 +616,7 @@
     "deck_id": 7
   },
   {
-    "card_id": "b7e13603-faab-429a-89be-a5c02006476c",
+    "card_id": "b7e13603",
     "front_text": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
@@ -624,7 +624,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "565df8b0-5955-4335-881c-7606a6d9b138",
+    "card_id": "565df8b0",
     "front_text": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
@@ -632,7 +632,7 @@
     "deck_id": 3
   },
   {
-    "card_id": "069b609e-d6a4-4fcf-bb19-1d0e804ebce2",
+    "card_id": "069b609e",
     "front_text": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
@@ -640,7 +640,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "72622ab4-3bb4-4f36-bad2-23525a2ff56b",
+    "card_id": "72622ab4",
     "front_text": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
@@ -648,7 +648,7 @@
     "deck_id": 3
   },
   {
-    "card_id": "77e97918-9b7e-4204-ad08-982adbb19412",
+    "card_id": "77e97918",
     "front_text": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
@@ -656,7 +656,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "4ec42290-d439-4bf7-ba28-cc00642ddfa0",
+    "card_id": "4ec42290",
     "front_text": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
@@ -664,7 +664,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "d3df6852-44f2-466c-9759-b31498e31d0a",
+    "card_id": "d3df6852",
     "front_text": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
@@ -672,7 +672,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "baa135ff-7fea-4a2d-883a-7391d48f1f9d",
+    "card_id": "baa135ff",
     "front_text": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
@@ -680,7 +680,7 @@
     "deck_id": 3
   },
   {
-    "card_id": "57504492-ec13-43b6-8f73-623efc408dcd",
+    "card_id": "57504492",
     "front_text": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
@@ -688,7 +688,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "cf98142b-4bdb-492f-bf41-55bf1a75654c",
+    "card_id": "cf98142b",
     "front_text": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
@@ -696,7 +696,7 @@
     "deck_id": 7
   },
   {
-    "card_id": "80b31e2a-3ea7-45ad-887c-9f7db887eb76",
+    "card_id": "80b31e2a",
     "front_text": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
@@ -704,7 +704,7 @@
     "deck_id": 3
   },
   {
-    "card_id": "08a1d994-8a1a-4c50-b5a7-0f849f874a59",
+    "card_id": "08a1d994",
     "front_text": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
@@ -712,7 +712,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "51505f0f-234d-403f-8acf-9c136e0261c8",
+    "card_id": "51505f0f",
     "front_text": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
@@ -720,7 +720,7 @@
     "deck_id": 7
   },
   {
-    "card_id": "69dd7f8f-71a9-4e13-881e-63e05c82ccf4",
+    "card_id": "69dd7f8f",
     "front_text": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
@@ -728,7 +728,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "8264c2db-3f89-48ea-ac88-06c5e49589e7",
+    "card_id": "8264c2db",
     "front_text": "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
@@ -736,7 +736,7 @@
     "deck_id": 4
   },
   {
-    "card_id": "87832557-a423-4ba4-91cb-7a8a1bc00f1d",
+    "card_id": "87832557",
     "front_text": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
@@ -744,7 +744,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "2144dca2-1f5d-4e7a-8d52-3ca502c41116",
+    "card_id": "2144dca2",
     "front_text": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
@@ -752,7 +752,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "85116026-3cf3-4f1f-b7aa-c1b393f7e84b",
+    "card_id": "85116026",
     "front_text": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
@@ -760,7 +760,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "b5aa5b36-6672-4bc2-b6d8-81cad2f216c2",
+    "card_id": "b5aa5b36",
     "front_text": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
@@ -768,7 +768,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "03176eee-9e5c-4f5a-bb61-00e0bca37163",
+    "card_id": "03176eee",
     "front_text": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
@@ -776,7 +776,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "9a4af3ef-80de-40f2-a61a-e840edbff97b",
+    "card_id": "9a4af3ef",
     "front_text": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
@@ -784,7 +784,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "f274c1db-c9d9-480c-b328-7747d544d20c",
+    "card_id": "f274c1db",
     "front_text": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
@@ -792,7 +792,7 @@
     "deck_id": 7
   },
   {
-    "card_id": "d7c6a04e-a2a4-4d93-9c82-da4e6250a7bb",
+    "card_id": "d7c6a04e",
     "front_text": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
@@ -800,7 +800,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "46b3e39a-ddf1-450e-a1ed-a6a5b48a7c05",
+    "card_id": "46b3e39a",
     "front_text": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
@@ -808,7 +808,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "fc67d9fc-ef7c-4b3e-bb74-7d8eeb3a8004",
+    "card_id": "fc67d9fc",
     "front_text": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
@@ -816,7 +816,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "0ca1aca0-af44-43f8-a763-cde036c58c98",
+    "card_id": "0ca1aca0",
     "front_text": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
@@ -824,7 +824,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "1886e406-59c2-497c-80bd-4b5ed645a98c",
+    "card_id": "1886e406",
     "front_text": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
@@ -832,7 +832,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "d5492bb0-d99f-464a-9eb3-e64a88421e94",
+    "card_id": "d5492bb0",
     "front_text": "Fusce consequat. Nulla nisl. Nunc nisl.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
@@ -840,7 +840,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "4c74374a-2916-4e7a-a7bb-6af23b9e8629",
+    "card_id": "4c74374a",
     "front_text": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
@@ -848,7 +848,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "64b8babf-9979-4f38-87dc-f8f845c60388",
+    "card_id": "64b8babf",
     "front_text": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
@@ -856,7 +856,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "1a6bcd51-e099-47cd-bdee-5808f5b91f20",
+    "card_id": "1a6bcd51",
     "front_text": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
@@ -864,7 +864,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "c0ddfca9-5064-4c38-84b1-0cd6dee17642",
+    "card_id": "c0ddfca9",
     "front_text": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
@@ -872,7 +872,7 @@
     "deck_id": 3
   },
   {
-    "card_id": "d0c2dd86-dd5d-4842-8168-cc6a748461ad",
+    "card_id": "d0c2dd86",
     "front_text": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
@@ -880,7 +880,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "f827614e-f2da-441c-a6ed-b51f86f34626",
+    "card_id": "f827614e",
     "front_text": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "In congue. Etiam justo. Etiam pretium iaculis justo.",
@@ -888,7 +888,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "ced4e136-b4e1-4620-8bd8-416e1f3d0914",
+    "card_id": "ced4e136",
     "front_text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
@@ -896,7 +896,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "400c4336-0772-4886-8e54-35c8d4a32813",
+    "card_id": "400c4336",
     "front_text": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
@@ -904,7 +904,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "da2de353-c16b-4b45-bb19-d9429727ba6d",
+    "card_id": "da2de353",
     "front_text": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
@@ -912,7 +912,7 @@
     "deck_id": 7
   },
   {
-    "card_id": "7e6d8b28-5f90-4ba0-94c1-af5b630358c7",
+    "card_id": "7e6d8b28",
     "front_text": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
@@ -920,7 +920,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "e1ccc8a5-ee0e-40e8-afea-1145d6263a0f",
+    "card_id": "e1ccc8a5",
     "front_text": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
@@ -928,7 +928,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "c2922c47-3027-4ea5-bc3b-78d767704c4e",
+    "card_id": "c2922c47",
     "front_text": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
@@ -936,7 +936,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "2ffb3208-5e54-40d8-8e45-354e9469bc4d",
+    "card_id": "2ffb3208",
     "front_text": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
@@ -944,7 +944,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "545d0045-c489-4dcd-a8ab-20bcfdfd1bd9",
+    "card_id": "545d0045",
     "front_text": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
@@ -952,7 +952,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "b352e1b7-355c-48a4-8b12-b596821ac3d7",
+    "card_id": "b352e1b7",
     "front_text": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
@@ -960,7 +960,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "ca055a46-85e6-4828-bbca-ef59438e2eb1",
+    "card_id": "ca055a46",
     "front_text": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
@@ -968,7 +968,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "c26545b0-4733-4566-95ea-5f9d151622d3",
+    "card_id": "c26545b0",
     "front_text": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
@@ -976,7 +976,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "b54cec04-26f7-4c5a-9303-af19c483f694",
+    "card_id": "b54cec04",
     "front_text": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
@@ -984,7 +984,7 @@
     "deck_id": 5
   },
   {
-    "card_id": "8274d66f-6091-47b6-b8ae-08b2114810fb",
+    "card_id": "8274d66f",
     "front_text": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
@@ -992,7 +992,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "3611491a-eb13-42ec-9c7a-97585a20efbf",
+    "card_id": "3611491a",
     "front_text": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
@@ -1000,7 +1000,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "a2849ea8-d9ca-4e34-b118-26c11c5fd5c8",
+    "card_id": "a2849ea8",
     "front_text": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
@@ -1008,7 +1008,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "21e8e63a-1a01-4347-b710-63bda7e3a18b",
+    "card_id": "21e8e63a",
     "front_text": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
@@ -1016,7 +1016,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "230f4966-7734-4172-8b3d-bfd7920a947e",
+    "card_id": "230f4966",
     "front_text": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
@@ -1024,7 +1024,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "64e87e03-e2ce-40aa-8d02-018f0b993287",
+    "card_id": "64e87e03",
     "front_text": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
@@ -1032,7 +1032,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "39f2f3d4-8dec-4528-9096-38c5d9666d81",
+    "card_id": "39f2f3d4",
     "front_text": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
@@ -1040,7 +1040,7 @@
     "deck_id": 3
   },
   {
-    "card_id": "3c873f2f-0fe7-48fd-99c2-1597d3953b37",
+    "card_id": "3c873f2f",
     "front_text": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
@@ -1048,7 +1048,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "ff450d81-4666-48ce-9bd4-17b7a5b036e7",
+    "card_id": "ff450d81",
     "front_text": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
@@ -1056,7 +1056,7 @@
     "deck_id": 5
   },
   {
-    "card_id": "e12b8ff0-303b-4fb3-9d67-e4ff641377ab",
+    "card_id": "e12b8ff0",
     "front_text": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
@@ -1064,7 +1064,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "792687ca-7a9b-4954-b636-bd40c67a33e2",
+    "card_id": "792687ca",
     "front_text": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
@@ -1072,7 +1072,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "09749433-6340-46b4-aab7-aa5bf395fa9b",
+    "card_id": "09749433",
     "front_text": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
@@ -1080,7 +1080,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "beb865e5-ce28-4e08-bd92-d7e476a04dc7",
+    "card_id": "beb865e5",
     "front_text": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
@@ -1088,7 +1088,7 @@
     "deck_id": 7
   },
   {
-    "card_id": "f9ab00dd-2e31-4702-a835-73119807cd07",
+    "card_id": "f9ab00dd",
     "front_text": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
@@ -1096,7 +1096,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "536d7bc8-700a-4fa4-a92b-6bb140ad0dcb",
+    "card_id": "536d7bc8",
     "front_text": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
@@ -1104,7 +1104,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "aea596cf-45c2-4f71-968e-bd34b449e53a",
+    "card_id": "aea596cf",
     "front_text": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
@@ -1112,7 +1112,7 @@
     "deck_id": 7
   },
   {
-    "card_id": "e41e4b31-56cf-48ce-8850-854cd3b80222",
+    "card_id": "e41e4b31",
     "front_text": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
@@ -1120,7 +1120,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "72d6d126-6a01-4c58-bdf0-e29c60f6207c",
+    "card_id": "72d6d126",
     "front_text": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
@@ -1128,7 +1128,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "770c4149-7d7e-48cd-96ad-45355536af2f",
+    "card_id": "770c4149",
     "front_text": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
@@ -1136,7 +1136,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "1464f5ca-45bd-484f-9f59-9c6f1dbf80c8",
+    "card_id": "1464f5ca",
     "front_text": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
@@ -1144,7 +1144,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "4bd35748-bdc5-478e-b9d7-f3eff7cf87b6",
+    "card_id": "4bd35748",
     "front_text": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
@@ -1152,7 +1152,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "6f792e88-9f15-4842-8118-4a46828c714a",
+    "card_id": "6f792e88",
     "front_text": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
@@ -1160,7 +1160,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "d22fe279-5f8d-419c-b086-4495709aac9c",
+    "card_id": "d22fe279",
     "front_text": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
@@ -1168,7 +1168,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "15e87817-3d5c-446c-877c-ea98a80657ed",
+    "card_id": "15e87817",
     "front_text": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
@@ -1176,7 +1176,7 @@
     "deck_id": 3
   },
   {
-    "card_id": "cdb242a0-f145-4658-bec1-99d901ed58d4",
+    "card_id": "cdb242a0",
     "front_text": "In congue. Etiam justo. Etiam pretium iaculis justo.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
@@ -1184,7 +1184,7 @@
     "deck_id": 5
   },
   {
-    "card_id": "0c2b292c-2b5d-4644-adf6-81563001cb29",
+    "card_id": "0c2b292c",
     "front_text": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
@@ -1192,7 +1192,7 @@
     "deck_id": 7
   },
   {
-    "card_id": "8f7b1cdd-ea1f-46ca-9f5e-b6473df0afa4",
+    "card_id": "8f7b1cdd",
     "front_text": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
@@ -1200,7 +1200,7 @@
     "deck_id": 4
   },
   {
-    "card_id": "42c91a2d-5245-4cfd-bc6a-0ec433481245",
+    "card_id": "42c91a2d",
     "front_text": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
@@ -1208,7 +1208,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "2fd085b4-1267-4d55-90a0-6402f4bdeafb",
+    "card_id": "2fd085b4",
     "front_text": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
@@ -1216,7 +1216,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "35ba71d0-acac-4220-9d32-2a873921185c",
+    "card_id": "35ba71d0",
     "front_text": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
@@ -1224,7 +1224,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "a00d2692-970b-455b-aace-63463496d233",
+    "card_id": "a00d2692",
     "front_text": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
@@ -1232,7 +1232,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "bcb919d3-51c1-4cfc-948c-35203213335c",
+    "card_id": "bcb919d3",
     "front_text": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
@@ -1240,7 +1240,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "f3c33e1f-7eab-4d8a-856e-a6fc09a59788",
+    "card_id": "f3c33e1f",
     "front_text": "In congue. Etiam justo. Etiam pretium iaculis justo.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
@@ -1248,7 +1248,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "c945e4a2-f651-472e-bbe2-68f5905c1642",
+    "card_id": "c945e4a2",
     "front_text": "Fusce consequat. Nulla nisl. Nunc nisl.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
@@ -1256,7 +1256,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "22abfd43-b484-4ff7-870c-8a8fd866da66",
+    "card_id": "22abfd43",
     "front_text": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
@@ -1264,7 +1264,7 @@
     "deck_id": 5
   },
   {
-    "card_id": "7cdae227-02a6-413c-9dfd-67b02d98132a",
+    "card_id": "7cdae227",
     "front_text": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
@@ -1272,7 +1272,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "fbf4ff1d-5123-4c03-94fd-0fdd6b1f33a0",
+    "card_id": "fbf4ff1d",
     "front_text": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
@@ -1280,7 +1280,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "15b01ded-5425-46f1-829e-fa965191b98a",
+    "card_id": "15b01ded",
     "front_text": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
@@ -1288,7 +1288,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "c414db74-f8fd-47b4-a823-32c2a1a6b5ac",
+    "card_id": "c414db74",
     "front_text": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
@@ -1296,7 +1296,7 @@
     "deck_id": 7
   },
   {
-    "card_id": "a541126b-8135-4a79-be82-0c712a8239b3",
+    "card_id": "a541126b",
     "front_text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
@@ -1304,7 +1304,7 @@
     "deck_id": 8
   },
   {
-    "card_id": "d2be44da-7e52-4549-9d9b-b4bfef5b33a9",
+    "card_id": "d2be44da",
     "front_text": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
@@ -1312,7 +1312,7 @@
     "deck_id": 3
   },
   {
-    "card_id": "be67a7e9-e3fc-4a2a-9b7c-e15abc02d3f3",
+    "card_id": "be67a7e9",
     "front_text": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
@@ -1320,7 +1320,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "155f0e33-14b4-46e2-b022-b01859d1f858",
+    "card_id": "155f0e33",
     "front_text": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
@@ -1328,7 +1328,7 @@
     "deck_id": 4
   },
   {
-    "card_id": "8d1d8638-c6de-4cee-88e0-952195b9bbfa",
+    "card_id": "8d1d8638",
     "front_text": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
@@ -1336,7 +1336,7 @@
     "deck_id": 6
   },
   {
-    "card_id": "67691c32-2d63-4885-833e-27fd06163a00",
+    "card_id": "67691c32",
     "front_text": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
@@ -1344,7 +1344,7 @@
     "deck_id": 4
   },
   {
-    "card_id": "7304f710-3a63-41ef-bfb8-3cd9ae0483ad",
+    "card_id": "7304f710",
     "front_text": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
@@ -1352,7 +1352,7 @@
     "deck_id": 4
   },
   {
-    "card_id": "86b33214-8361-420b-877f-13fa8334ea15",
+    "card_id": "86b33214",
     "front_text": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
@@ -1360,7 +1360,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "f9628fc7-9be9-46ae-9682-f1a3d50f7fa7",
+    "card_id": "f9628fc7",
     "front_text": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
@@ -1368,7 +1368,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "218c6e59-4d45-4ee1-ac24-eddb936443cc",
+    "card_id": "218c6e59",
     "front_text": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
@@ -1376,7 +1376,7 @@
     "deck_id": 10
   },
   {
-    "card_id": "130c8977-d65a-4c58-aae8-ddb96857e20a",
+    "card_id": "130c8977",
     "front_text": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
@@ -1384,7 +1384,7 @@
     "deck_id": 9
   },
   {
-    "card_id": "d84fe869-e93f-4691-87d9-f1fedb24feed",
+    "card_id": "d84fe869",
     "front_text": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
@@ -1392,7 +1392,7 @@
     "deck_id": 3
   },
   {
-    "card_id": "1773f0cd-e1ee-491e-884c-8e3ed6144bab",
+    "card_id": "1773f0cd",
     "front_text": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
@@ -1400,7 +1400,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "5d7cb0c3-3624-4c24-a03c-3d4eefcde969",
+    "card_id": "5d7cb0c3",
     "front_text": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
@@ -1408,7 +1408,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "33f3f479-d5d6-47b5-bbc9-fc873909cea8",
+    "card_id": "33f3f479",
     "front_text": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
@@ -1416,7 +1416,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "2a69e755-8024-4124-8c72-45b6d5dcb2ed",
+    "card_id": "2a69e755",
     "front_text": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
     "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "back_text": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
@@ -1424,7 +1424,7 @@
     "deck_id": 1
   },
   {
-    "card_id": "84de36c4-37b1-4475-8dae-4176c0902e92",
+    "card_id": "84de36c4",
     "front_text": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
     "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "back_text": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
@@ -1432,7 +1432,7 @@
     "deck_id": 5
   },
   {
-    "card_id": "227bb6a0-bba8-4add-85dc-f5108c830234",
+    "card_id": "227bb6a0",
     "front_text": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
     "front_image": "http://dummyimage.com/200x200.png/dddddd/000000",
     "back_text": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
@@ -1440,7 +1440,7 @@
     "deck_id": 2
   },
   {
-    "card_id": "4a1596a7-1459-476d-a1d8-c8500ec597f9",
+    "card_id": "4a1596a7",
     "front_text": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
     "front_image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "back_text": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",

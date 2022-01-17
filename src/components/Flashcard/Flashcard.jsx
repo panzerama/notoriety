@@ -1,24 +1,21 @@
-import React, { useState, useEffect } from 'react'
-import PropTypes from 'prop-types'
-import Button from '@mui/material/Button'
+import React, { useState, useEffect, useContext } from 'react'
+import { Link, useParams } from 'react-router-dom'
 import {
+  Box,
+  Button,
   Card,
   CardActions,
   CardContent,
   CardMedia,
   Typography
 } from '@mui/material'
-import { Box } from '@mui/system'
 
-const Flashcard = props => {
-  // WORKITEM image alt text from data
-  const {
-    front_text,
-    front_image,
-    back_text,
-    back_image,
-    cardAdvanceHandler
-  } = props.cardContent
+import { CardContext } from '../CardProvider/CardContextProvider'
+
+const Flashcard = () => {
+  const cards = useContext(CardContext)
+  const { cardIdx } = useParams()
+  const { front_image, front_text, back_image, back_text } = cards[cardIdx]
 
   const [isFront, setIsFront] = useState(true)
   const [content, setContent] = useState({
@@ -54,33 +51,21 @@ const Flashcard = props => {
         <CardContent>
           <Typography>{content.text}</Typography>
         </CardContent>
-        <CardActions>
+        <CardActions sx={{ display: 'flex', justifyContent: 'center' }}>
           <Button variant="outlined" onClick={() => flipHandler()}>
             Flip
           </Button>
           <Button
+            component={Link}
+            to={`/cards/${(cardIdx + 1) % cards.length}`}
             variant="outlined"
-            onClick={() => {
-              cardAdvanceHandler()
-            }}
           >
-            Next
+            Next - link to cards/next index % length
           </Button>
         </CardActions>
       </Card>
     </Box>
   )
-}
-
-Flashcard.propTypes = {
-  cardContent: PropTypes.exact({
-    card_id: PropTypes.string,
-    front_text: PropTypes.string,
-    front_image: PropTypes.string,
-    back_text: PropTypes.string,
-    back_image: PropTypes.string,
-    correct: PropTypes.number
-  })
 }
 
 export default Flashcard

@@ -9,7 +9,7 @@ const Tile = ({ title, link }) => {
         <Typography sx={{ fontSize: 18 }}>{title}</Typography>
       </CardContent>
       <CardActions>
-        <Button component={Link} to={link}>{title}</Button> 
+        <Button component={Link} to={link}>View Card</Button> 
       </CardActions>
     </Card>
   )

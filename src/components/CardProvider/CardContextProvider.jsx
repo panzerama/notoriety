@@ -1,11 +1,11 @@
-import React, { useEffect, useState } from 'react'
+import React, { createContext, useState, useEffect } from 'react'
 import axios from 'axios'
-import { Outlet } from 'react-router-dom'
 
-import CardContext from './CardContextProvider'
+export const CardContext = createContext()
 
-const CardProvider = () => {
+const CardContextProvider = ({ children }) => {
   const [cards, setCards] = useState(null)
+  // current card index?
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(false)
 
@@ -33,10 +33,9 @@ const CardProvider = () => {
   } else {
     return (
       <CardContext.Provider value={cards}>
-        <Outlet />
+        {children}
       </CardContext.Provider>
     )
   }
 }
-
-export default CardProvider
+export default CardContextProvider

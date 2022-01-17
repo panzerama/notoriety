@@ -1,14 +1,30 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { CssBaseline } from '@mui/material'
+import reportWebVitals from './reportWebVitals'
 // import './index.css'
 import App from './App'
-import reportWebVitals from './reportWebVitals'
+import CardContextProvider from './components/CardProvider/CardContextProvider'
+import Landing from './components/Landing/Landing'
+import MultiCard from './components/Flashcard/MultiCard'
+import Flashcard from './components/Flashcard/Flashcard'
 
 ReactDOM.render(
   <React.StrictMode>
     <CssBaseline />
-    <App />
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<App />}>
+          <Route index element={<Landing />} />
+          <Route path="cards" element={<CardContextProvider />}>
+            <Route index element={<MultiCard />} />
+            <Route path=":cardIdx" element={<Flashcard />} />
+          </Route>
+          <Route path="/decks" element={<span>Decks go here!</span>} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 )
