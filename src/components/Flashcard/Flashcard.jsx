@@ -40,7 +40,7 @@ const Flashcard = () => {
     setIsFront(!isFront)
   }
 
-  const prev = idx > 0 ? idx - 1 : cards.length
+  const prev = idx > 0 ? idx - 1 : cards.length - 1
   const next = idx < cards.length - 1 ? idx + 1 : 0
 
   return (
