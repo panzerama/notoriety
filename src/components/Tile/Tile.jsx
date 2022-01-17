@@ -4,9 +4,9 @@ import { Button, Card, CardActions, CardContent, Typography } from '@mui/materia
 
 const Tile = ({ title, link }) => {
   return (
-    <Card variant="outlined" sx={{ minWidth: '20vw' }}>
+    <Card variant="outlined" sx={{ minWidth: '20%', m: 2 }}>
       <CardContent>
-        <Typography sx={{ fontSize: 18 }}>{title}</Typography>
+        <Typography sx={{ fontSize: 12 }}>{title}</Typography>
       </CardContent>
       <CardActions>
         <Button component={Link} to={link}>View Card</Button> 
