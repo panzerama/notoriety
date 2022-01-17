@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { useOutletContext } from 'react-router-dom'
-import { Box, Button, ButtonGroup } from '@mui/material'
+import { Box, Button } from '@mui/material'
 
 import Tile from '../Tile/Tile'
 
