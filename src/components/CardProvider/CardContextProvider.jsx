@@ -1,9 +1,10 @@
 import React, { createContext, useState, useEffect } from 'react'
+import { Outlet } from 'react-router-dom'
 import axios from 'axios'
 
 export const CardContext = createContext()
 
-const CardContextProvider = ({ children }) => {
+const CardContextProvider = () => {
   const [cards, setCards] = useState(null)
   // current card index?
   const [loading, setLoading] = useState(true)
@@ -31,11 +32,7 @@ const CardContextProvider = ({ children }) => {
   } else if (loading) {
     return <span>Loading...</span>
   } else {
-    return (
-      <CardContext.Provider value={cards}>
-        {children}
-      </CardContext.Provider>
-    )
+    return <Outlet context={cards} />
   }
 }
 export default CardContextProvider
