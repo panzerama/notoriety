@@ -1,8 +1,6 @@
-import React, { useEffect, useState } from 'react'
-import axios from 'axios'
+import React, { useState, useEffect } from 'react'
 import { Outlet } from 'react-router-dom'
-
-import CardContext from './CardContextProvider'
+import axios from 'axios'
 
 const CardProvider = () => {
   const [cards, setCards] = useState(null)
@@ -18,7 +16,7 @@ const CardProvider = () => {
           const data = response.data
           setCards(data)
           setLoading(false)
-        }, 2000) // simulating network lag
+        }, 2000) // This simulates network lag
       })
       .catch(err => {
         console.log(err)
@@ -31,12 +29,7 @@ const CardProvider = () => {
   } else if (loading) {
     return <span>Loading...</span>
   } else {
-    return (
-      <CardContext.Provider value={cards}>
-        <Outlet />
-      </CardContext.Provider>
-    )
+    return <Outlet context={cards} />
   }
 }
-
 export default CardProvider
