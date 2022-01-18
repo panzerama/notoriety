@@ -3,28 +3,38 @@ import ReactDOM from 'react-dom'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { CssBaseline } from '@mui/material'
 import reportWebVitals from './reportWebVitals'
-// import './index.css'
+
+import './index.css'
 import App from './App'
-import CardContextProvider from './components/CardProvider/CardContextProvider'
+import CardProvider from './components/CardProvider/CardProvider'
 import Landing from './components/Landing/Landing'
 import MultiCard from './components/Flashcard/MultiCard'
 import Flashcard from './components/Flashcard/Flashcard'
+import DeckProvider from './components/DeckProvider/DeckProvider'
+import MultiDeck from './components/Deck/MultiDeck'
+import Deck from './components/Deck/Deck'
+import CustomThemeProvider from './components/CustomTheme/CustomThemeProvider'
 
 ReactDOM.render(
   <React.StrictMode>
     <CssBaseline />
+    <CustomThemeProvider>
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<App />}>
           <Route index element={<Landing />} />
-          <Route path="cards" element={<CardContextProvider />}>
+          <Route path="cards" element={<CardProvider />}>
             <Route index element={<MultiCard />} />
             <Route path=":cardIdx" element={<Flashcard />} />
           </Route>
-          <Route path="/decks" element={<span>Decks go here!</span>} />
+          <Route path="decks" element={<DeckProvider />}>
+            <Route index element={<MultiDeck />} />
+            <Route path=":deckId" element={<Deck />} />
+          </Route>
         </Route>
       </Routes>
-    </BrowserRouter>
+      </BrowserRouter>
+    </CustomThemeProvider>
   </React.StrictMode>,
   document.getElementById('root')
 )

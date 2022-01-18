@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useContext } from 'react'
-import { Link, useParams } from 'react-router-dom'
+import React, { useState, useEffect } from 'react'
+import { Link, useOutletContext, useParams } from 'react-router-dom'
 import {
   Box,
   Button,
@@ -10,12 +10,11 @@ import {
   Typography
 } from '@mui/material'
 
-import { CardContext } from '../CardProvider/CardContextProvider'
-
 const Flashcard = () => {
-  const cards = useContext(CardContext)
+  const cards = useOutletContext()
   const { cardIdx } = useParams()
-  const { front_image, front_text, back_image, back_text } = cards[cardIdx]
+  const idx = parseInt(cardIdx)
+  const { front_image, front_text, back_image, back_text } = cards[idx]
 
   const [isFront, setIsFront] = useState(true)
   const [content, setContent] = useState({
@@ -41,6 +40,9 @@ const Flashcard = () => {
     setIsFront(!isFront)
   }
 
+  const prev = idx > 0 ? idx - 1 : cards.length - 1
+  const next = idx < cards.length - 1 ? idx + 1 : 0
+
   return (
     <Box sx={{ width: '100%', mt: 8, display: 'flex', justifyContent: 'space-around'}}>
       <Card sx={{ width: '40vw' }} elevation={3}>
@@ -52,15 +54,24 @@ const Flashcard = () => {
           <Typography>{content.text}</Typography>
         </CardContent>
         <CardActions sx={{ display: 'flex', justifyContent: 'center' }}>
-          <Button variant="outlined" onClick={() => flipHandler()}>
+        <Button
+            sx={{ mx: 2 }}
+            component={Link}
+            to={`/cards/${prev}`}
+            variant="outlined"
+          >
+            Prev
+          </Button>
+          <Button sx={{ mx: 2 }} variant="outlined" onClick={() => flipHandler()}>
             Flip
           </Button>
           <Button
+            sx={{ mx: 2 }}
             component={Link}
-            to={`/cards/${(cardIdx + 1) % cards.length}`}
+            to={`/cards/${next}`}
             variant="outlined"
           >
-            Next - link to cards/next index % length
+            Next
           </Button>
         </CardActions>
       </Card>
