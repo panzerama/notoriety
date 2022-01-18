@@ -14,14 +14,14 @@ const TopBar = () => {
   return (
     <AppBar position="relative">
       <Toolbar sx={{ display: 'flex', width: '100vw', m: 0 }}>
-        <Typography variant="h6" sx={{ flexGrow: 1 }}>
+        <Typography variant="h4" sx={{ flexGrow: 1 }}>
           Notoriety
         </Typography>
         <Button size="large" color="inherit" onClick={() => buttonClickHandler()}>
-          Left
+          Login
         </Button>
         <Button size="large" color="inherit" onClick={buttonClickHandler}>
-          Right
+          About
         </Button>
       </Toolbar>
     </AppBar>

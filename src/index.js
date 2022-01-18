@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { CssBaseline } from '@mui/material'
 import reportWebVitals from './reportWebVitals'
-// import './index.css'
+
+import './index.css'
 import App from './App'
 import CardProvider from './components/CardProvider/CardProvider'
 import Landing from './components/Landing/Landing'
@@ -12,10 +13,12 @@ import Flashcard from './components/Flashcard/Flashcard'
 import DeckProvider from './components/DeckProvider/DeckProvider'
 import MultiDeck from './components/Deck/MultiDeck'
 import Deck from './components/Deck/Deck'
+import CustomThemeProvider from './components/CustomTheme/CustomThemeProvider'
 
 ReactDOM.render(
   <React.StrictMode>
     <CssBaseline />
+    <CustomThemeProvider>
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<App />}>
@@ -30,7 +33,8 @@ ReactDOM.render(
           </Route>
         </Route>
       </Routes>
-    </BrowserRouter>
+      </BrowserRouter>
+    </CustomThemeProvider>
   </React.StrictMode>,
   document.getElementById('root')
 )
