@@ -12,7 +12,7 @@ function replaceWord() {
     method: "GET",
     headers: {
       "x-rapidapi-key": "your-api-key-here",
-      "x-rapidapi-host": "api-host-here",
+      'x-rapidapi-host': 'wordsapiv1.p.rapidapi.com',
     },
   })
     .then((response) => {
