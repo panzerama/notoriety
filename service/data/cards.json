@@ -1,3 +1,58 @@
-{
-  "cardData": "goes here"
-}
+[
+  {
+    "card_id": "40a6b5c1-3614-437d-9a4c-437efa144afa",
+    "front_text": "Donec posuere metus vitae ipsum. Aliquam non mauris.",
+    "front_image": null,
+    "back_text": "Suspendisse potenti. In eleifend quam a odio.",
+    "back_image": "http://dummyimage.com/200x200.png/ff4444/ffffff"
+  },
+  {
+    "card_id": "56a7275d-5ae6-462f-8f0d-b9d381cb8d4f",
+    "front_text": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",
+    "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
+    "back_text": null,
+    "back_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
+  },
+  {
+    "card_id": "44fed7ed-4f50-4ef7-aa1b-391e65f354a6",
+    "front_text": "Nulla suscipit ligula in lacus.",
+    "front_image": null,
+    "back_text": "Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",
+    "back_image": "http://dummyimage.com/200x200.png/cc0000/ffffff"
+  },
+  {
+    "card_id": "1530e6f7-7694-4a50-8c04-af838f0edc83",
+    "front_text": "Aliquam quis turpis eget elit sodales scelerisque.",
+    "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
+    "back_text": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "back_image": null
+  },
+  {
+    "card_id": "6e137a00-c014-49e3-b1c7-d72afc80ce3f",
+    "front_text": null,
+    "front_image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
+    "back_text": "Nullam molestie nibh in lectus. Pellentesque at nulla.",
+    "back_image": "http://dummyimage.com/200x200.png/ff4444/ffffff"
+  },
+  {
+    "card_id": "1e4972d7-9879-443c-be26-df652fac9b89",
+    "front_text": "Aenean fermentum.",
+    "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
+    "back_text": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",
+    "back_image": "http://dummyimage.com/200x200.png/cc0000/ffffff"
+  },
+  {
+    "card_id": "415e7079-749e-4385-b27f-f623bc125497",
+    "front_text": null,
+    "front_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
+    "back_text": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "back_image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
+  },
+  {
+    "card_id": "08fa50ff-3aad-4194-a24e-1dc02d9b1e72",
+    "front_text": "Nunc rhoncus dui vel sem.",
+    "front_image": null,
+    "back_text": "Quisque porta volutpat erat.",
+    "back_image": null
+  }
+]

@@ -4,10 +4,9 @@ import Button from "../Button/Button"
 import "./Card.css"
 import ButtonGroup from "../ButtonGroup/ButtonGroup"
 
-// we could also destructure the props parameter
 const Card = (props) => {
-  // WORKITEM image alt text from data
-  const { front_text, front_image, back_text, back_image, cardAdvanceHandler } =
+  const { front_text, front_image, back_text, back_image, cardAdvanceHandler, cardPreviousHandler, showBackButton
+  , showNextButton} =
     props.cardContent
 
   const frontContent = () => {
@@ -26,7 +25,6 @@ const Card = (props) => {
       throw new Error("We shouldn't get to this state")
     }
   }
-  // WORKITEM Intermittently bad back card formatting.
   const backContent = () => {
     if (back_image && !back_text) {
       return <img src={back_image} alt="replace with dynamic value" />
@@ -62,6 +60,15 @@ const Card = (props) => {
         <Button buttonStyle="primary" onClickHandler={flipHandler}>
           Flip
         </Button>
+        {showBackButton &&
+        <Button buttonStyle="secondary" onClickHandler={() => {
+          cardPreviousHandler()
+          }}
+        >
+          Back
+        </Button>
+        }
+        {showNextButton && 
         <Button
           buttonStyle="secondary"
           onClickHandler={() => {
@@ -70,6 +77,7 @@ const Card = (props) => {
         >
           Next
         </Button>
+        }
       </ButtonGroup>
     </div>
   )
@@ -87,3 +95,4 @@ Card.propTypes = {
 }
 
 export default Card
+
