@@ -7,7 +7,7 @@ import ButtonGroup from "../ButtonGroup/ButtonGroup"
 // we could also destructure the props parameter
 const Card = (props) => {
   // WORKITEM image alt text from data
-  const { front_text, front_image, back_text, back_image, cardAdvanceHandler } =
+  const { front_text, front_image, back_text, back_image, cardAdvanceHandler, cardReverseHandler, index, cardSize} =
     props.cardContent
 
   const frontContent = () => {
@@ -51,25 +51,23 @@ const Card = (props) => {
   }
 
   return (
-    <div className="flashcard-wrapper">
+    <div className="flashcard-wrapper" >
       <div className="card-surface">
-        <div className="card-content-wrapper">
+        <div className="card-content-wrapper" >
           {isFront ? frontContent() : backContent()}
         </div>
       </div>
       <br />
-      <ButtonGroup>
-        <Button buttonStyle="primary" onClickHandler={flipHandler}>
-          Flip
-        </Button>
-        <Button
-          buttonStyle="secondary"
-          onClickHandler={() => {
-            cardAdvanceHandler()
-          }}
-        >
-          Next
-        </Button>
+      <ButtonGroup> 
+        { index !== 0 ?
+          <Button buttonStyle="secondary" onClickHandler={cardReverseHandler}> Back </Button> 
+          :<Button buttonStyle="secondary" disabled> &nbsp;</Button> 
+        }
+        <Button buttonStyle="primary" onClickHandler={flipHandler}> Flip </Button>
+        { index !== cardSize-1 ? 
+          <Button buttonStyle="secondary" onClickHandler={cardAdvanceHandler}> Next </Button> 
+          :<Button buttonStyle="secondary" disabled> &nbsp;</Button> 
+        }
       </ButtonGroup>
     </div>
   )
@@ -83,6 +81,7 @@ Card.propTypes = {
     back_text: PropTypes.string,
     back_image: PropTypes.string,
     cardAdvanceHandler: PropTypes.func.isRequired,
+    cardReverseHandler: PropTypes.func.isRequired
   }),
 }
 

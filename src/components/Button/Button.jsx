@@ -2,7 +2,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import "./Button.css"
 
-const Button = ({ buttonStyle, children, onClickHandler }) => {
+const Button = ({ buttonStyle, children, onClickHandler}) => {
   return (
     <div className="button-container">
       <button
