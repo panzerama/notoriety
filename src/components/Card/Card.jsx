@@ -59,6 +59,9 @@ const Card = (props) => {
       </div>
       <br />
       <ButtonGroup>
+        <Button buttonStyle="secondary" onClickHandler={flipHandler}>
+          Back
+        </Button>
         <Button buttonStyle="primary" onClickHandler={flipHandler}>
           Flip
         </Button>

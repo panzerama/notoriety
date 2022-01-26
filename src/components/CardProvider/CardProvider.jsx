@@ -4,11 +4,16 @@ import cardData from '../../data/cards.json'
 
 const CardProvider = () => {
   const [index, setIndex] = useState(0)
-  const [cards, setCards] = useState(cardData)
+  const [cards, setCards] = useState(null)
 
   useEffect(() => {
     console.log('When does this run?')
-  })
+    fetch('http://localhost:8000/cards')
+    .then(response => response.json())
+    .then((responseJson) => {
+      setTimeout(55000, setCards(responseJson))
+    }) 
+  }, [])
 
   const nextCardHandler = () => {
     if (index < cards.length - 1) {
@@ -32,7 +37,11 @@ const CardProvider = () => {
    * (the same data in src/data/cards.json) and test it using curl or Postman.
    * Next, make a request of the Express service from the useEffect hook.
    */
-  return <Card cardContent={{ cardAdvanceHandler: nextCardHandler, ...cardData[index] }}></Card>
+  if (cards) {
+    return <Card cardContent={{ cardAdvanceHandler: nextCardHandler, ...cards[index] }}></Card>
+  } else {
+    return <span>Loading...</span>
+  }
 }
 
 export default CardProvider
