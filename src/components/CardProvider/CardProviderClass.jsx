@@ -9,13 +9,18 @@ export default class CardProvider extends React.Component {
 
   constructor(props) { // called before anything else
     super(props)
-    this.state = { cards: cardData, index: 0 }
+    this.state = { cards: cardData, index: 0}
   }
 
   // getDerivedStateFromProps()
 
   render() { // render here based on the state we have
-    return <Card cardContent={{ cardAdvanceHandler: this.nextCardHandler.bind(this), ...this.cards[this.state.index] }}></Card>
+    return  <Card cardContent={{ 
+      cardAdvanceHandler: this.nextCardHandler.bind(this),
+      cardPreviousHandler: this.prevCardHandler.bind(this),
+      ...this.cards[this.state.index] 
+    }}>
+    </Card>
   }
 
   // componentDidMount()
@@ -30,17 +35,17 @@ export default class CardProvider extends React.Component {
   // getSnapshotBeforeUpdate()
   // componentDidUpdate()
 
-  nextCardHandler() {
+/*   nextCardHandler() {
     if (this.state.index < this.state.cards.length - 1) {
       this.setState((state, props) => {
-        index: this.state.index+1
+        index: this.state.index + 1
       })
     } else {
       this.setState({
         index: 0
       })
     }
-  }
+  } */
 
   
 }

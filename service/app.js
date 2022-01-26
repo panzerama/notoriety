@@ -16,5 +16,6 @@ app.get('/', (req, res) => {
 // Assignment: Add a new route here for GET /cards
 
 app.listen(port, () => {
+  // eslint-disable-next-line no-console
   console.log(`Example app listening on port ${port}!`)
 })
