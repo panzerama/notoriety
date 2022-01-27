@@ -8,11 +8,22 @@ const CardProvider = () => {
 
   useEffect(() => {
     console.log('When does this run?')
-  })
+    fetch('http://localhost:8000/cards')
+    .then(response => response.json())
+    .then (responseJson => {setTimeout(2000, setCards(responseJson))
+  }, [])
 
   const nextCardHandler = () => {
     if (index < cards.length - 1) {
       setIndex(index+1)
+    } else {
+      setIndex(0)
+    }
+  }
+
+  const backCardHandler = () => {
+    if (index > 0) {
+      setIndex(index-1)
     } else {
       setIndex(0)
     }
