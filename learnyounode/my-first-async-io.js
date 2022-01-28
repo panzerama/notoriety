@@ -1,24 +1,27 @@
-
-
-/*const fs = require('fs'); // imported library
+const fs = require('fs'); // imported library
 const file = process.argv[2];
 
-fs.readFile(file, 'utf8', function(err, data){
-    if(err){
-        return err
-        }
-    console.log(data);
-
-}
-*/
-
-
-const fs = require('fs'); // imported library
-let file = process.argv[2];
-
-let x = fs.readFile(file, "utf8", function(err, data){
+fs.readFile(file, "utf8", function(err, data){
       if(err){
-        return err
+        return console.log(err)
         }
-        console.log(x.split("\n").length-1);
+        else{
+            //console.log(data);
+            console.log(data.split("\n").length-1);
+        }
 } );
+
+/*
+   'use strict'
+    const fs = require('fs')
+    const file = process.argv[2]
+
+    fs.readFile(file, function (err, contents) {
+      if (err) {
+        return console.log(err)
+      }
+      // fs.readFile(file, 'utf8', callback) can also be used
+      const lines = contents.toString().split('\n').length - 1
+      console.log(lines)
+    })
+*/
