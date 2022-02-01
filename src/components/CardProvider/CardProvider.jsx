@@ -12,12 +12,16 @@ const CardProvider = () => {
 
   const nextCardHandler = () => {
     if (index < cards.length - 1) {
-      setIndex(index+1)
-    } else {
-      setIndex(0)
+      setIndex(index + 1)
     }
   }
-  
+
+  const prevCardHandler = () => {
+    if (index > 0) {
+      setIndex(index - 1)
+    }
+  }
+
   /**
    * Week Three Assignment
    * Part One - Your assignment this week is to create a 'back' button that will
@@ -32,7 +36,7 @@ const CardProvider = () => {
    * (the same data in src/data/cards.json) and test it using curl or Postman.
    * Next, make a request of the Express service from the useEffect hook.
    */
-  return <Card cardContent={{ cardAdvanceHandler: nextCardHandler, ...cardData[index] }}></Card>
+  return <Card cardContent={{ cardAdvanceHandler: nextCardHandler, cardRetreatHandler: prevCardHandler, ...cardData[index] }}></Card>
 }
 
 export default CardProvider
