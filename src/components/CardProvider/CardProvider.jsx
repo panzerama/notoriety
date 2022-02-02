@@ -14,6 +14,8 @@ const CardProvider = () => {
     if (index < cards.length - 1) {
       setIndex(index + 1)
     }
+
+    console.log(cards[0])
   }
 
   const prevCardHandler = () => {
@@ -36,7 +38,17 @@ const CardProvider = () => {
    * (the same data in src/data/cards.json) and test it using curl or Postman.
    * Next, make a request of the Express service from the useEffect hook.
    */
-  return <Card cardContent={{ cardAdvanceHandler: nextCardHandler, cardRetreatHandler: prevCardHandler, ...cardData[index] }}></Card>
+
+  console.log('index: ' + index + " prev: " + (index > 0) + " next: " + (index < cardData.length - 1))
+  return <Card cardContent={
+    {
+      cardAdvanceHandler: nextCardHandler,
+      cardRetreatHandler: prevCardHandler,
+      show_prev_button: (index > 0),
+      show_next_button: (index < cardData.length - 1),
+      ...cardData[index]
+    }
+  }></Card>
 }
 
 export default CardProvider

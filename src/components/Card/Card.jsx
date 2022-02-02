@@ -6,9 +6,14 @@ import ButtonGroup from "../ButtonGroup/ButtonGroup"
 
 // we could also destructure the props parameter
 const Card = (props) => {
+
   // WORKITEM image alt text from data
-  const { front_text, front_image, back_text, back_image, cardAdvanceHandler, cardRetreatHandler } =
-    props.cardContent
+  const {
+    front_text, front_image,
+    back_text, back_image,
+    show_prev_button, show_next_button,
+    cardAdvanceHandler, cardRetreatHandler
+  } = props.cardContent
 
   const frontContent = () => {
     if (front_image && !front_text) {
@@ -50,6 +55,28 @@ const Card = (props) => {
     setIsFront(!isFront)
   }
 
+  const prevButton = () => {
+    <Button
+      buttonStyle="secondary"
+      onClickHandler={() => {
+        cardRetreatHandler()
+      }}
+    >
+      Back
+    </Button>
+  }
+
+  const nextButton = () => {
+    <Button
+      buttonStyle="secondary"
+      onClickHandler={() => {
+        cardAdvanceHandler()
+      }}
+    >
+      Next
+    </Button>
+  }
+
   return (
     <div className="flashcard-wrapper">
       <div className="card-surface">
@@ -59,27 +86,14 @@ const Card = (props) => {
       </div>
       <br />
       <ButtonGroup>
-        <Button
-          buttonStyle="secondary"
-          onClickHandler={() => {
-            cardRetreatHandler()
-          }}
-        >
-          Back
-        </Button>
+
+        {show_prev_button ? prevButton() : null}
         <Button buttonStyle="primary" onClickHandler={flipHandler}>
           Flip
         </Button>
-        <Button
-          buttonStyle="secondary"
-          onClickHandler={() => {
-            cardAdvanceHandler()
-          }}
-        >
-          Next
-        </Button>
+        {show_next_button ? nextButton() : null}
       </ButtonGroup>
-    </div>
+    </div >
   )
 }
 
@@ -90,6 +104,8 @@ Card.propTypes = {
     front_image: PropTypes.string,
     back_text: PropTypes.string,
     back_image: PropTypes.string,
+    show_prev_button: PropTypes.bool,
+    show_next_button: PropTypes.bool,
     cardAdvanceHandler: PropTypes.func.isRequired,
     cardRetreatHandler: PropTypes.func.isRequired
   }),
