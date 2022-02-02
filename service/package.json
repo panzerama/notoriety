@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "jest",
-    "dev": "nodemon app.js"
+    "dev": "nodemon --experimental-json-modules app.js"
   },
   "author": "",
   "license": "ISC",
@@ -17,6 +17,7 @@
     "prettier": "2.4.1"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.2",
     "mongoose": "^6.1.4"
   },
