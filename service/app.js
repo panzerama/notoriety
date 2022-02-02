@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
   res.send('Hello World!')
 })
 
-// Get example.com/cards
+// GET example.com/cards
 app.get('/cards', (req, res) => { 
   res.send(cardData)
 })
