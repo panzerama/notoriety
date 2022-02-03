@@ -4,11 +4,13 @@ import cardData from '../../data/cards.json'
 
 const CardProvider = () => {
   const [index, setIndex] = useState(0)
-  const [cards, setCards] = useState(cardData)
+  const [cards, setCards] = useState(null)
 
   useEffect(() => {
-    console.log('When does this run?')
-  })
+    fetch('http://localhost:8000/cards')
+      .then(response => response.json())
+      .then(responseJson => setCards(responseJson))
+  }, [])
 
   const nextCardHandler = () => {
     if (index < cards.length - 1) {
@@ -39,16 +41,17 @@ const CardProvider = () => {
    * Next, make a request of the Express service from the useEffect hook.
    */
 
-  console.log('index: ' + index + " prev: " + (index > 0) + " next: " + (index < cardData.length - 1))
-  return <Card cardContent={
-    {
-      cardAdvanceHandler: nextCardHandler,
-      cardRetreatHandler: prevCardHandler,
-      show_prev_button: (index > 0),
-      show_next_button: (index < cardData.length - 1),
-      ...cardData[index]
-    }
-  }></Card>
+  if (cards) {
+    return <Card cardContent={
+      {
+        cardAdvanceHandler: nextCardHandler,
+        cardRetreatHandler: prevCardHandler,
+        show_prev_button: (index > 0),
+        show_next_button: (index < cardData.length - 1),
+        ...cardData[index]
+      }
+    }></Card>
+  } else { return <span>Loading...</span> }
 }
 
 export default CardProvider
