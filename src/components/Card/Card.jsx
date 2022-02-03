@@ -7,7 +7,7 @@ import ButtonGroup from "../ButtonGroup/ButtonGroup"
 // we could also destructure the props parameter
 const Card = (props) => {
   // WORKITEM image alt text from data
-  const { front_text, front_image, back_text, back_image, cardAdvanceHandler } =
+  const { front_text, front_image, back_text, back_image, cardAdvanceHandler, cardPreviousHandler} =
     props.cardContent
 
   const frontContent = () => {
@@ -50,6 +50,7 @@ const Card = (props) => {
     setIsFront(!isFront)
   }
 
+
   return (
     <div className="flashcard-wrapper">
       <div className="card-surface">
@@ -59,6 +60,16 @@ const Card = (props) => {
       </div>
       <br />
       <ButtonGroup>
+ 
+      <Button
+          buttonStyle="secondary"
+          onClickHandler={() => {
+            cardPreviousHandler()
+          }}
+        >
+          Back
+        </Button>
+
         <Button buttonStyle="primary" onClickHandler={flipHandler}>
           Flip
         </Button>
