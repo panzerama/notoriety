@@ -1,4 +1,5 @@
 import express from 'express'
+import cardData from './data/cards.json'
 
 const app = express()
 const port = 8000
@@ -10,11 +11,14 @@ const port = 8000
 app.use(express.json())
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+    res.send('Hello World!')
 })
 
 // Assignment: Add a new route here for GET /cards
+app.get('/cards', (req, res) => {
+    res.send(cardData)
+})
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}!`)
+    console.log(`Example app listening on port ${port}!`)
 })
