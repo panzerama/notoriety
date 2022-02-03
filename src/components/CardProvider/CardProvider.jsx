@@ -4,20 +4,28 @@ import cardData from '../../data/cards.json'
 
 const CardProvider = () => {
   const [index, setIndex] = useState(0)
-  const [cards, setCards] = useState(cardData)
+  const [cards, setCards] = useState(null)
 
   useEffect(() => {
-    console.log('When does this run?')
-  })
+    fetch('http://localhost:8000/cards')
+      .then(response => response.json())
+      .then(responseJson => setCards(responseJson))
+  }, [])
 
   const nextCardHandler = () => {
     if (index < cards.length - 1) {
-      setIndex(index+1)
-    } else {
-      setIndex(0)
+      setIndex(index + 1)
+    }
+
+    console.log(cards[0])
+  }
+
+  const prevCardHandler = () => {
+    if (index > 0) {
+      setIndex(index - 1)
     }
   }
-  
+
   /**
    * Week Three Assignment
    * Part One - Your assignment this week is to create a 'back' button that will
@@ -32,7 +40,18 @@ const CardProvider = () => {
    * (the same data in src/data/cards.json) and test it using curl or Postman.
    * Next, make a request of the Express service from the useEffect hook.
    */
-  return <Card cardContent={{ cardAdvanceHandler: nextCardHandler, ...cardData[index] }}></Card>
+
+  if (cards) {
+    return <Card cardContent={
+      {
+        cardAdvanceHandler: nextCardHandler,
+        cardRetreatHandler: prevCardHandler,
+        show_prev_button: (index > 0),
+        show_next_button: (index < cardData.length - 1),
+        ...cardData[index]
+      }
+    }></Card>
+  } else { return <span>Loading...</span> }
 }
 
 export default CardProvider

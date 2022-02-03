@@ -16,7 +16,7 @@ const Button = ({ buttonStyle, children, onClickHandler }) => {
 }
 
 Button.propTypes = {
-  buttonStyle: PropTypes.oneOf(["primary", "secondary"]).isRequired,
+  buttonStyle: PropTypes.oneOf(["primary", "secondary", "hide"]).isRequired,
   onClickHandler: PropTypes.func.isRequired,
 }
 

@@ -11,6 +11,7 @@ branches in the repo correspond to different weeks of the lecture course.
 `week3` - MERN stack basics
 `week4` - SPA and Routing, AJAX
 
+
 ## Running the App 
 
 The `final` branch reflects the most up-to-date finished codebase.
