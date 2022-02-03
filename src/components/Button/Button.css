@@ -1,33 +1,37 @@
 .button-container {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 button {
-  font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 .button-common {
-  padding: 5px 5px;
-  margin: 2px;
-  width: 100px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 18px;
-  border-radius: 5px;
+    padding: 5px 5px;
+    margin: 2px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 5px;
 }
 
 .secondary {
-  border: cadetblue 2px solid;
-  background-color: white;
-  color: cadetblue;
+    border: cadetblue 2px solid;
+    background-color: white;
+    color: cadetblue;
 }
 
 .primary {
-  border: white 2px solid;
-  background-color: cadetblue;
-  color: white;
+    border: white 2px solid;
+    background-color: cadetblue;
+    color: white;
+}
+
+.hide {
+    display: none;
 }

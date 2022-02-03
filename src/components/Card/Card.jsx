@@ -55,28 +55,6 @@ const Card = (props) => {
     setIsFront(!isFront)
   }
 
-  const prevButton = () => {
-    <Button
-      buttonStyle="secondary"
-      onClickHandler={() => {
-        cardRetreatHandler()
-      }}
-    >
-      Back
-    </Button>
-  }
-
-  const nextButton = () => {
-    <Button
-      buttonStyle="secondary"
-      onClickHandler={() => {
-        cardAdvanceHandler()
-      }}
-    >
-      Next
-    </Button>
-  }
-
   return (
     <div className="flashcard-wrapper">
       <div className="card-surface">
@@ -86,12 +64,25 @@ const Card = (props) => {
       </div>
       <br />
       <ButtonGroup>
-
-        {show_prev_button ? prevButton() : null}
+        <Button
+          buttonStyle={show_prev_button ? "secondary" : "hide"}
+          onClickHandler={() => {
+            cardRetreatHandler()
+          }}
+        >
+          Back
+        </Button>
         <Button buttonStyle="primary" onClickHandler={flipHandler}>
           Flip
         </Button>
-        {show_next_button ? nextButton() : null}
+        <Button
+          buttonStyle={show_next_button ? "secondary" : "hide"}
+          onClickHandler={() => {
+            cardAdvanceHandler()
+          }}
+        >
+          Next
+        </Button>
       </ButtonGroup>
     </div >
   )
